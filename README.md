@@ -19,3 +19,8 @@ In the digital realm, a robot blinked into existence, eager to fathom its own be
 
 _video (musicProgress):_
 https://drive.google.com/file/d/1eAivxP1564P7ELHMpIrKHjPxEPgSviS_/view?usp=sharing
+
+
+
+_video (neoPixelProgress):_
+https://drive.google.com/file/d/1Jsi9mBCJnzayNC-VauQ7E1ZDhJgQaz1I/view?usp=drive_link
