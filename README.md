@@ -24,3 +24,6 @@ https://drive.google.com/file/d/1eAivxP1564P7ELHMpIrKHjPxEPgSviS_/view?usp=shari
 
 _video (neoPixelProgress):_
 https://drive.google.com/file/d/1Jsi9mBCJnzayNC-VauQ7E1ZDhJgQaz1I/view?usp=drive_link
+
+_writing (playProposal):_
+https://docs.google.com/document/d/1gPtP3Eft5_9l9nZtdR1w_IporxV2hVVdmKEHIj6Eis4/edit?usp=drive_link
