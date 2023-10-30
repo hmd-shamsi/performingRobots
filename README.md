@@ -10,11 +10,11 @@
       <tr>
          <td>
             <h3>sketch1.1_2d</h3>
-            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/4840156a-d6bc-41aa-8cd3-79b770b2f057" alt="Sketch 2D" width="500" height="700">
+            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/4840156a-d6bc-41aa-8cd3-79b770b2f057" alt="Sketch 2D" width="500" height="600">
          </td>
          <td>
             <h3>sketch1.2_3d</h3>
-            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/3cd630c1-762f-4797-9f7e-f3cf45f3b451" alt="IMG_0721" width="500" height="700">
+            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/3cd630c1-762f-4797-9f7e-f3cf45f3b451" alt="IMG_0721" width="500" height="600">
          </td>
       </tr>
    </table>
