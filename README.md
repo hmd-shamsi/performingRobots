@@ -40,15 +40,18 @@
     <a href="https://drive.google.com/file/d/1Jsi9mBCJnzayNC-VauQ7E1ZDhJgQaz1I/view?usp=drive_link">Watch the video</a>
     <h2>playProposal</h2>
     <a href="https://docs.google.com/document/d/1gPtP3Eft5_9l9nZtdR1w_IporxV2hVVdmKEHIj6Eis4/edit?usp=drive_link">Read the document</a>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br> 
+    <h2>robotFinal</h2>
     <table>
-                            <br>
     <br>
-                                    <br>
     <br>
-        <br>
         <tr>
             <td>
-                <h2>robotFinal_magnus</h2>
+                <h2>sketch2.1_design</h2>
                 <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/a2bba995-6832-4c94-a67e-0cbd8f2d9333" alt="IMG_1523">
             </td>
         </tr>
