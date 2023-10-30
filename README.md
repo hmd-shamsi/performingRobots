@@ -63,7 +63,7 @@
    <table>
       <tr>
          <td>
-            <h3>sketch3.1_design</h3>
+            <h3>sketch2.1_design</h3>
             <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/a2bba995-6832-4c94-a67e-0cbd8f2d9333" alt="IMG_1523">
          </td>
       </tr>
