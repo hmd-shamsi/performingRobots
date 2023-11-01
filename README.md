@@ -34,7 +34,7 @@
    <br>
    <h3>musicProgress</h3>
    <p>
-      .
+      During this phase of our insect robot project, we embarked on testing and utilizing the GB cards provided to us for the Music Maker Shield. However, after encountering issues with the initial 128GB card, we found a solution by switching to a 16GB micro SD card. This transition not only resolved our technical challenges but also contributed to the overall progress of the class. To witness the outcomes of our musical exploration, be sure to watch the accompanying demo.
       <br>
       <br>
       <a href="https://drive.google.com/file/d/1eAivxP1564P7ELHMpIrKHjPxEPgSviS_/view?usp=sharing">Watch the video</a>
@@ -42,7 +42,7 @@
    <br>
    <h3>neoPixelProgress</h3>
    <p>
-      .
+      In the pursuit of enhancing our insect robot's capabilities, we developed a program that played audio tracks from a microSD card while concurrently displaying captivating graphic sequences on the NeoMatrix Pixel. The program orchestrated a seamless sequence of events, playing tracks and displaying graphic designs in a mesmerizing loop. To experience the fusion of sound and visuals achieved during this milestone, watch the demo provided below.
       <br>
       <br>
       <a href="https://drive.google.com/file/d/1Jsi9mBCJnzayNC-VauQ7E1ZDhJgQaz1I/view?usp=drive_link">Watch the video</a>
@@ -50,7 +50,7 @@
    <br>
    <h3>playProposal</h3>
    <p>
-      .
+      One of our significant objectives was to create a thought-provoking play that delves into the realm of robot ethics, catering to both robotic and human actors. This play proposal seeks to address the complex and pertinent question of how robots fit into our ethical framework. It opens up a dialogue on the moral considerations surrounding these machines. To explore our vision and concept for this play, delve into the proposal, and feel free to share your thoughts and insights.
       <br>
       <br>
       <a href="https://docs.google.com/document/d/1gPtP3Eft5_9l9nZtdR1w_IporxV2hVVdmKEHIj6Eis4/edit?usp=drive_link">Read the document</a>
