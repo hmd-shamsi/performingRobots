@@ -70,13 +70,19 @@
     <br>
    <h3>links</h3>
    <ul>
-      <li>NeoPixel Rings: <a href="https://www.youtube.com/watch?v=0Kk29P_ICfE&ab_channel=AdafruitIndustries">Watch the video</a></li>
-      <li>8X8 LED Matrix Eye Program: <a href="https://www.youtube.com/watch?v/bGIOFGOlB68&pp=ygUaOHg4IGxlZCBtYXRyaXggZXllc2FyZHVpbm8%3D&ab_channel=JerryHanna">Watch the video</a></li>
+      <li>NeoPixel Rings: 
+         <ul> 
+            <li> <a href="https://www.youtube.com/watch?v=0Kk29P_ICfE&ab_channel=AdafruitIndustries">neopixelRing</a></li>
+         </ul>
+            <li>8X8 LED Matrix Eye Program: 
+               <ul> 
+                  <li> <a href="https://www.youtube.com/watch?v/bGIOFGOlB68&pp=ygUaOHg4IGxlZCBtYXRyaXggZXllc2FyZHVpbm8%3D&ab_channel=JerryHanna">movingEye</a></li>
+               </ul>
       <li>
          Rotational to Linear Movement Mechanism:
          <ul>
-            <li><a href="https://www.youtube.com/shorts/DHGlCAkIB14">Watch the video</a></li>
-            <li><a href="https://www.youtube.com/shorts/99YMdd3416I">Watch the video</a></li>
+            <li><a href="https://www.youtube.com/shorts/DHGlCAkIB14">mechanism1</a></li>
+            <li><a href="https://www.youtube.com/shorts/99YMdd3416I">mechanism2</a></li>
          </ul>
       </li>
    </ul>
