@@ -68,7 +68,7 @@
       </tr>
    </table>
     <br>
-   <h3>links</h3>
+   <h3>references</h3>
    <ul>
       <li>NeoPixel Rings: 
          <ul> 
