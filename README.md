@@ -93,25 +93,26 @@
       </li>
    </ul>
    <br>
+   <br>
       <table>
          <td>
             <h3>sketch3.1_body</h3>
-            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/a7ade61c-8396-4790-bb06-4cd61b151810" alt="body" width="500" height="500">
+            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/a7ade61c-8396-4790-bb06-4cd61b151810" alt="body" width="500" height="400">
          </td>
          <td>
             <h3>sketch3.2_head</h3>
-            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/f4d240bc-103d-45e4-aae3-990078e40e31" alt="head" alt="IMG_0721" width="500" height="500">
+            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/f4d240bc-103d-45e4-aae3-990078e40e31" alt="head" alt="IMG_0721" width="500" height="400">
          </td>
       </tr>
    </table>
       <table>
          <td>
             <h3>sketch3.3_pipeFront</h3>
-            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/4b884b15-9b38-426e-8638-c90d933be5f4" alt="pipe1" width="500" height="500">
+            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/4b884b15-9b38-426e-8638-c90d933be5f4" alt="pipe1" width="500" height="400">
          </td>
          <td>
             <h3>sketch3.4_pipeBack</h3>
-            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/d3e848c8-8336-4c67-a042-7075cc9c198d" alt="pipe2" alt="IMG_0721" width="500" height="500">
+            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/d3e848c8-8336-4c67-a042-7075cc9c198d" alt="pipe2" alt="IMG_0721" width="500" height="400">
          </td>
       </tr>
    </table>
