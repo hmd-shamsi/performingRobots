@@ -85,5 +85,44 @@
             <li><a href="https://www.youtube.com/shorts/99YMdd3416I">mechanism2</a></li>
          </ul>
       </li>
+       <li>
+         Mechanism Prototype:
+         <ul>
+            <li><a href="https://drive.google.com/file/d/18vrkhPfdBN8fpPe-VxofPMqPs38mqkYL/view?usp=sharing">prototype</a></li>
+         </ul>
+      </li>
    </ul>
+   <br>
+      <table>
+         <td>
+            <h3>sketch3.1_body</h3>
+            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/a7ade61c-8396-4790-bb06-4cd61b151810" alt="body" width="500" height="500">
+         </td>
+         <td>
+            <h3>sketch3.2_head</h3>
+            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/f4d240bc-103d-45e4-aae3-990078e40e31" alt="head" alt="IMG_0721" width="500" height="500">
+         </td>
+      </tr>
+   </table>
+      <table>
+         <td>
+            <h3>sketch3.3_pipeFront</h3>
+            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/4b884b15-9b38-426e-8638-c90d933be5f4" alt="pipe1" width="500" height="500">
+         </td>
+         <td>
+            <h3>sketch3.4_pipeBack</h3>
+            <img src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/d3e848c8-8336-4c67-a042-7075cc9c198d" alt="pipe2" alt="IMG_0721" width="500" height="500">
+         </td>
+      </tr>
+   </table>
+   <br>
+   <h3>links</h3>
+   <ul>
+      <li>mechanismDemo: 
+         <ul> 
+            <li> <a href="https://github.com/hmd-shamsi/performingRobots/assets/72342923/46ff8ffe-e03a-479d-a392-78edcea0f67f">demo1</a></li>
+         </ul>
 </body>
+
+
+
