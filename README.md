@@ -130,6 +130,19 @@
             <li> <a href="https://drive.google.com/file/d/1MpCpJ0P2aZn9tlFu6RhlIqqtnF68U1Mt/view?usp=sharing">demo3</a></li>
          </ul>
 </body>
-
+<br>
+   <h2>final</h2>
+   <table>
+      <tr>
+         <td>
+            <h3>img4.1_2d</h3>
+            <img src="https://drive.google.com/file/d/1bwsp2HmHbKLIkSEEcs_Jsrgb9uvqEHfN/view?usp=sharing" alt="Sketch 2D" width="500" height="600">
+         </td>
+         <td>
+            <h3>img4.2_3d</h3>
+            <img src="https://drive.google.com/file/d/14Z8uBRX8tHeyaXWMGc1U4CIoyZW_HY08/view?usp=sharing" alt="IMG_0721" width="500" height="600">
+         </td>
+      </tr>
+   </table>
 
 
