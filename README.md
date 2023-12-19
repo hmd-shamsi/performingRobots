@@ -136,11 +136,11 @@
       <tr>
          <td>
             <h3>img4.1_2d</h3>
-            <img src="https://drive.google.com/file/d/1bwsp2HmHbKLIkSEEcs_Jsrgb9uvqEHfN/view?usp=sharing" alt="Sketch 2D" width="500" height="600">
+       <img width="450" alt="Screenshot 2023-12-19 at 7 06 01 AM" src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/57c8027d-2277-4088-9047-824eb745e64a">
          </td>
          <td>
             <h3>img4.2_3d</h3>
-            <img src="https://drive.google.com/file/d/14Z8uBRX8tHeyaXWMGc1U4CIoyZW_HY08/view?usp=sharing" alt="IMG_0721" width="500" height="600">
+<img width="1086" alt="Screenshot 2023-12-19 at 7 05 54 AM" src="https://github.com/hmd-shamsi/performingRobots/assets/72342923/6a7f0241-c301-49b4-a528-9add386c8c97">
          </td>
       </tr>
    </table>
